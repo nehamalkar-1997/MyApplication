@@ -11,6 +11,6 @@ class RegistrationActivity : AppCompatActivity() {
 
     private fun register(){
 
-     registerButton
+
     }
 }
